@@ -2653,7 +2653,7 @@ Animator:
   m_GameObject: {fileID: 8241139872284851371}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 897b34267f422c1499700402763d096e, type: 3}
-  m_Controller: {fileID: 9100000, guid: 3ed6a4ec809a6ef48b382b3285002327, type: 2}
+  m_Controller: {fileID: 9100000, guid: 30640f1c7a3c962488bd926396c5ba8f, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2858,7 +2858,7 @@ MonoBehaviour:
   rootTurningFactor: 0
   headLayer: 1
   mouthLayer: 2
-  customAnimator: {fileID: 0}
+  customAnimator: {fileID: 6066859710964695818}
   turningAngleThreshold: 4
   listExpectedAnimations: 0
   turn2DCharactersIn3DSpace: 1
