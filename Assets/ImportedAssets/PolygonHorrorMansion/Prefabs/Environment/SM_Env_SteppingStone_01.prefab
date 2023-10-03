@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33627459461822418}
   - component: {fileID: 23048142352173020}
   - component: {fileID: 64868100120729246}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Env_SteppingStone_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}

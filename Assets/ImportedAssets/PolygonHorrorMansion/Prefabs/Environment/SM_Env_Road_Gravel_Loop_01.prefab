@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33463441795684764}
   - component: {fileID: 23050078052672796}
   - component: {fileID: 64559440303103622}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Env_Road_Gravel_Loop_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}

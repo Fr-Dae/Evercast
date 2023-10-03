@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33787094311016192}
   - component: {fileID: 23619064633934078}
   - component: {fileID: 64628217426949706}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Env_Road_Gravel_Corner_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}

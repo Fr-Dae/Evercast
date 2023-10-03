@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33815077005287664}
   - component: {fileID: 23415757084914236}
   - component: {fileID: 64747300263769284}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Env_Dirt_Round_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -2922,7 +2922,7 @@ MonoBehaviour:
   headTurnTarget: {fileID: 0}
   headTurnTargetOffset: {x: 0, y: 0, z: 0}
   headFacing: 0
-  ikHeadTurning: 0
+  ikHeadTurning: 1
   headTurnSpeed: 4
   moveOutOfPlayersWay: 0
   minPlayerDistance: 1

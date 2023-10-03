@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33634741884178414}
   - component: {fileID: 23999101493655828}
   - component: {fileID: 64531875082970196}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Env_Grass_Round_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
